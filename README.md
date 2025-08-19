@@ -129,8 +129,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subh37106&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
-### 🌐 My Contribution Globe
+### 📊 My Isometric Contributions
 
 <p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?username=Subh37106&theme=tokyoNight&mode=globe" alt="Contribution Globe" />
+  <img src="https://api.githubtrends.io/user/svg/Subh37106/contributions?theme=tokyo-night" alt="Isometric Contributions" />
 </p>
