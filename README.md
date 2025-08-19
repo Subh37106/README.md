@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/2974334/171569309-d7a86375-3a45-426c-8a3e-954f3c72b388.png" alt="" width="200" height="200" style="border-radius:50%;">
+
   <h1>Hi 👋, I'm Subham Paul</h1>
   <h3>A Passionate AI & Machine Learning Developer from India</h3>
   
