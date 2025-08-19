@@ -1,6 +1,6 @@
 
-  <center><h1>Hi 👋, I'm Subham Paul</h1></center>
-  <h3>A Passionate AI & Machine Learning Developer from India</h3>
+  <h1 style="text-align: center;">Hi 👋, I'm Subham Paul</h1>
+<h3 style="text-align: center;">A Passionate AI & Machine Learning Developer from India</h3>
   
   <a href="mailto:subhamsumitsimashambhu@gmail.com">
     <img src="https://img.shields.io/badge/HIRE_ME-green?style=for-the-badge" alt="Hire Me"/>
