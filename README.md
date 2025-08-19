@@ -1,5 +1,5 @@
 
-  <h1>Hi 👋, I'm Subham Paul</h1>
+  <center><h1>Hi 👋, I'm Subham Paul</h1></center>
   <h3>A Passionate AI & Machine Learning Developer from India</h3>
   
   <a href="mailto:subhamsumitsimashambhu@gmail.com">
