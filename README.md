@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 I'm currently diving deep into **Artificial Intelligence** and **Machine Learning** from my home in Kharagpur, India 🇮🇳.
+- 🤖 I'm currently diving deep into **Artificial Intelligence** and **Machine Learning** from IIT Kharagpur, India 🇮🇳.
 
 - 🌱 I’m focused on learning about **MLOps** and deploying scalable deep learning models.
 
