@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="YOUR_PHOTO_URL" alt="Subham Paul" width="200" height="200" style="border-radius:50%;">
+  <img src="https://i.imgur.com/832P3N2.png" alt="Batman Logo" width="200" height="200" style="border-radius:50%;">
   <h1>Hi 👋, I'm Subham Paul</h1>
   <h3>A Passionate AI & Machine Learning Developer from India</h3>
   
