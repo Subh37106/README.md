@@ -133,5 +133,5 @@
 ### 🐍 GitHub Contributions Snake
 
 <p align="center">
-  <img src="https://github.com/Subh37106/Subh37106/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Subh37106/Subh37106/main/dist/github-contribution-grid-snake.svg" alt="snake" />
 </p>
