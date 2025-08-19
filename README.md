@@ -85,11 +85,9 @@
   </p>
   
 ### 🌍 Where in the World?
-
 <p align="center">
-  <img src="https://weather-card-beta.vercel.app/api/embed?location=Kharagpur&days=1&bgColor=%231F222E&stroke=%23F85D7F&sunColor=%23F8D866&particleColor=%23FFFFFF" />
+  <img src="https://wttr.in/Kharagpur_0TQ.png" />
 </p>
-
 
 ### 🛠️ Languages and Tools
 
