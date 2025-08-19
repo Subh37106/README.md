@@ -1,4 +1,4 @@
-# GitHub Action for generating a contribution snake animation
+
 name: Generate Snake Animation
 
 on:
