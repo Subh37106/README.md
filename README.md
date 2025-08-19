@@ -130,10 +130,8 @@
 </p>
 
 
-### 🏙️ My GitHub Skyline
+### 🌐 My Contribution Globe
 
 <p align="center">
-  <a href="https://skyline.github.com/Subh37106/2024">
-    <img src="https://skyline.github.com/Subh37106/2024.png" alt="GitHub Skyline" />
-  </a>
+  <img src="https://github-readme-contribution-graph.vercel.app/api?username=Subh37106&theme=tokyoNight&mode=globe" alt="Contribution Globe" />
 </p>
