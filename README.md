@@ -9,7 +9,7 @@
   </a>
 </div>
 
----
+
 
 ### 👨‍💻 About Me
 
@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnY2OHQzNHN4enR5MXFtdXNnZHF0NDd2cDAyYXVyN3V2YXg2cGd2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600">
 </p>
 
----
+
 
 ### 🚀 Interactive Projects Showcase
 <details>
@@ -63,7 +63,7 @@
   <p><a href="YOUR_REPO_LINK"><strong>🔗 View on GitHub</strong></a></p>
 </details>
 
----
+
 
 ### 🏆 GitHub Trophies
 
@@ -71,24 +71,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Subh37106&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
----
+
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/subham-paul-63355a320"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subham Paul's LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:subhamsumitsimashambhu@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Send an Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/subham-paul-63355a320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:subhamsumitsimashambhu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   </p>
-
----
-
+  
 ### 🌍 Where in the World?
 
 <p align="center">
   <img src="https://weather-card-beta.vercel.app/api/embed?location=Kharagpur&days=1&bgColor=%231F222E&stroke=%23F85D7F&sunColor=%23F8D866&particleColor=%23FFFFFF" />
 </p>
 
----
 
 ### 🛠️ Languages and Tools
 
@@ -103,7 +104,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats & Coding Activity
 
@@ -122,7 +123,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subh37106&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Subham's Top Languages" />
 </p>
 
----
+
 
 ### 📈 GitHub Contribution Graph
 
@@ -130,7 +131,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subh37106&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
 
 ### 🐍 GitHub Contributions Snake
 
