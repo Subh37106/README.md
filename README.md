@@ -130,8 +130,10 @@
 </p>
 
 
-### 🐍 GitHub Contributions Snake
+### 🏙️ My GitHub Skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Subh37106/Subh37106/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+  <a href="https://skyline.github.com/Subh37106/2024">
+    <img src="https://skyline.github.com/Subh37106/2024.png" alt="GitHub Skyline" />
+  </a>
 </p>
